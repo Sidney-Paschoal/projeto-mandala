@@ -55,7 +55,7 @@ header p{
     text-align: center;
     font-size: 18px;
     font-family: var(--fonte-esotic);
-    padding-top: 15px ;
+    padding-bottom: 35px ;
 }
 nav{
     background-color: #fbc32bf5;
@@ -145,7 +145,7 @@ footer{
     background-color:#fbc32bf5;
     font-family: sans-serif;
     padding-bottom:  40px;
-    padding-top: 30px;
+    padding-top: 20px;
     padding-left: 30px;
     padding-right: 30px;
     font-weight: 600;
@@ -170,7 +170,7 @@ footer p{
     margin-left: 60px;
     font-family: kaushan script;
     text-align: center;
-font-size: 18px;
+font-size: 16px;
 
 }
 
